@@ -1,0 +1,145 @@
+fileFormatVersion: 2
+guid: 8faef23b4a5312e46b90db61198a56d1
+timeCreated: 1545593419
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Handle
+    100002: Handle1
+    100004: Handle2
+    100006: Handle3
+    100008: Handle_Lock
+    100010: Handle_Lock1
+    100012: Karchi
+    100014: Tandoor1
+    100016: //RootNode
+    400000: Handle
+    400002: Handle1
+    400004: Handle2
+    400006: Handle3
+    400008: Handle_Lock
+    400010: Handle_Lock1
+    400012: Karchi
+    400014: Tandoor1
+    400016: //RootNode
+    2100000: phong1
+    2300000: Handle
+    2300002: Handle1
+    2300004: Handle2
+    2300006: Handle3
+    2300008: Handle_Lock
+    2300010: Handle_Lock1
+    2300012: Karchi
+    2300014: Tandoor1
+    3300000: Handle
+    3300002: Handle1
+    3300004: Handle2
+    3300006: Handle3
+    3300008: Handle_Lock
+    3300010: Handle_Lock1
+    3300012: Karchi
+    3300014: Tandoor1
+    4300000: Karchi
+    4300002: Handle2
+    4300004: Handle3
+    4300006: Handle1
+    4300008: Handle
+    4300010: Tandoor1
+    4300012: Handle_Lock1
+    4300014: Handle_Lock
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: 42f7d1f10aabbe54baa9e06a787dd802, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tandoor_Logo_Albedo
+    second: {fileID: 2800000, guid: 0f3415fb8ab5ff446b5c2fb8247c4204, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Tandoor_Logo_Normal
+    second: {fileID: 2800000, guid: f098b07964250bb49afe3d89d9e62349, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
